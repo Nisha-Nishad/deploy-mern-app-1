@@ -1,1 +1,11 @@
-# deploy-mern-app-1
+#dependencies
+/backend/node_modules
+/frontend/node_modules
+/.pnp
+.pnp.js
+
+#testing
+/coverage
+
+#production
+/build
